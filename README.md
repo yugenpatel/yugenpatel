@@ -58,7 +58,7 @@ Hi, I'm [Yugen Galani](https://www.linkedin.com/in/yugengalani/) from India, cur
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yugenpatel.yugenpatel)
+![Profile Views](https://komarev.com/ghpvc/?username=yugenpatel)
 
 
 
