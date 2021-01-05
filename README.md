@@ -36,7 +36,7 @@
 <a href="https://www.codechef.com/users/yugenpatel">
   <img align="left" alt="Yajush's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/codechef.svg" />
 </a>
-<a href="https://www.hackerrank.com/peace01yj">
+<a href="https://www.hackerrank.com/yugenpatel">
   <img align="left" alt="Yajush's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerrank.svg" />
 </a>
 
